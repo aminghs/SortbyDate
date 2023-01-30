@@ -15,3 +15,7 @@ Use the state variable to determine the sorting order. If the sorting order is a
 Use the sorted data array to render the table.
 
 Create a button or link that the user can click to change the sorting order.
+
+# Editable cell in table
+
+By click on a cell or row, you should be able to edit it
